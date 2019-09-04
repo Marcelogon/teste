@@ -1,0 +1,102 @@
+.tableDesc{
+    text-align: left
+}
+.divDesc{
+    width: 600px;
+    margin-left: 180px;
+    margin-top: 20px;
+    font-size: 15px;
+    float: left;
+}
+.tableDesc th, td {
+    padding: 15px;
+    border-bottom: 1px solid rgb(187, 180, 180);
+  }
+  .btnTable{
+      float: right;
+  }
+  .disabled {
+    margin-left: 50px;
+    background-color: white; 
+    color: black; 
+    border-radius: 5%;
+    background-color: white; 
+    color: black; 
+    border: 2px solid #008CBA;
+    opacity: 0.6;
+    cursor: not-allowed;
+  }
+  .divFotos{
+      margin-top: 70px;
+      border: solid 1px;
+      border-radius: 5%;
+      width: 300px;
+      float: left;
+  }
+  .divTotal{
+      width: 100%;
+  }
+  .divButtons{
+      float: left;
+      margin-left: 8px;
+      margin-bottom: 10px;
+     margin-top: 10px;
+  }
+  .btn {
+    margin-left: 57px;
+    background-color: white; 
+    color: black; 
+    border-radius: 5%;
+    background-color: white; 
+    color: black; 
+    border: 2px solid #008CBA;
+  }
+  
+  .btn:hover {
+    border-radius: 5%;
+    background-color: #008CBA;
+    color: white;
+  }
+  .button {
+      border-radius: 5%;
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    padding: 16px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    -webkit-transition-duration: 0.4s; /* Safari */
+    transition-duration: 0.4s;
+    cursor: pointer;
+  }
+  
+  .btnCategoria {
+    margin-right: 1%;
+    margin-bottom: 1%;
+    background: #008CBA;
+    
+    position: relative;
+  }
+
+  .btnNovoOr {
+    margin-right: 1%;
+    margin-bottom: 1%;
+
+  }
+  .divTopo{
+    width: 100%;
+    height: 35px;
+    font-size: 25px;
+    padding-bottom: 50px;
+  }
+ 
+  .card {
+    background-color: aquamarine
+  }
+  .btnNovoOr {
+    width: 40%;
+
+  }

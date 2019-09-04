@@ -1,0 +1,26 @@
+.editable-row .ant-form-explain {
+    position: absolute;
+    font-size: 12px;
+    margin-top: -4px;
+  }
+
+  .divcadastro{
+    max-width: 500px;
+    margin-left: 23%;
+}
+
+.btnCadastro{
+margin-top: 4px;
+}
+
+.inputSub{
+  margin-top:8px; 
+}
+
+.inputProduto{
+  margin-bottom: 8px;
+}
+
+.inputProdutoBtn{
+  margin-top: 8px;
+}

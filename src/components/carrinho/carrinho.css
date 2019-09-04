@@ -1,0 +1,94 @@
+
+
+.TableProdutos {
+    font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+  }
+  
+  .TableProdutos td, #customers th {
+    border: 1px solid #ddd;
+    padding: 8px;
+  }
+  
+  .TableProdutos tr:nth-child(even){background-color: #f2f2f2;}
+  
+  .TableProdutos tr:hover {background-color: #ddd;}
+  
+  .btnSave{
+    margin-left: 2px;
+  }
+  .TableProdutos th {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: center;
+    background-color: rgb(37, 125, 207);
+    color: white;
+  }
+
+  .inputNumber{
+    padding: 2px;
+    border-radius: 10%;
+  }
+  .btnVoltar{
+    margin-bottom: 5px;
+    float: left;
+  }
+  .btnContinuar{
+    margin-bottom: 5px;
+    float: right;
+  }
+  .btnAlterarNome{
+    margin-bottom: 5px;
+    float: left;
+    margin-left: 15px;
+  }
+
+  .buttonTest {
+    
+    padding: 6px 10px;
+    font-size: 15px;
+    cursor: pointer;
+    text-align: center;
+    text-decoration: none;
+    outline: none;
+    color: #fff;
+    background-color: rgb(84, 147, 230);
+    border: none;
+    border-radius: 15px;
+    box-shadow: 0 9px #999;
+  }
+  
+  .buttonTest:hover {background-color: #063053}
+  
+  .buttonTest:active {
+    background-color: #234475;
+    box-shadow: 0 5px #666;
+    transform: translateY(4px);
+  }
+
+  .TableHistorico{
+    margin-left: 13%;
+    max-width: 70%;
+  }
+  .TableHistorico {
+    font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+  }
+  
+  .TableHistorico td, #customers th {
+    border: 1px solid #ddd;
+    padding: 8px;
+  }
+  
+  .TableHistorico tr:nth-child(even){background-color: #f2f2f2;}
+  
+  .TableHistorico tr:hover {background-color: #ddd;}
+  .TableHistorico th {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: center;
+    background-color: rgb(37, 125, 207);
+    color: white;
+  }

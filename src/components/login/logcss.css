@@ -1,0 +1,44 @@
+
+.login-form {
+  max-width: 300px;
+}
+.login-form-forgot {
+  float: right;
+}
+.login-form-button {
+  width: 100%;
+}
+
+.btnCadastro {
+  border: 0ch;
+  background-color: lightgray;
+  
+}
+
+.inputUsuario {
+  
+  margin-top: 10px;
+}
+
+.divCadastro{
+  margin-left: 32%;
+  width: 500px;
+}
+.divLog{
+  background-color: lightgrey;
+  
+  margin-top: 20px;
+  margin-left: 510px;
+  padding: 35px 10px 10px 25px;
+  width: 350px;
+}
+
+.divTabelaA {
+width:45%; 
+float: left;
+}
+.divTabelaO{
+margin-right: 2%;
+width: 45%;
+float: left;
+}
